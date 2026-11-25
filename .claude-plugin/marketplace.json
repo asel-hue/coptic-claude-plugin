@@ -1,0 +1,7 @@
+{
+  "name": "coptic-tools",
+  "owner": { "name": "ASEL", "url": "https://github.com/asel-hue" },
+  "plugins": [
+    { "name": "coptic-dev", "source": "./" }
+  ]
+}

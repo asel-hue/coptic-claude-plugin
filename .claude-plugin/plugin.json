@@ -1,0 +1,9 @@
+{
+  "name": "coptic-dev",
+  "displayName": "Développement des applications coptes",
+  "description": "Agents pour les applications coptes orthodoxes : calendrier copte, données liturgiques (Katameros, Synaxaire), Android, widget et intégration entre applications.",
+  "author": { "name": "ASEL", "url": "https://github.com/asel-hue" },
+  "repository": "https://github.com/asel-hue/coptic-claude-plugin",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "keywords": ["copte", "android", "liturgie", "calendrier"]
+}
